@@ -101,6 +101,8 @@ function ajouterMot() {
         document.getElementById('input-francais').value = '';
         // IMPORTANT: Mettre à jour la liste affichée
         afficherListeMots();
+
+        inputAnglais.focus();
     }
 }
 
