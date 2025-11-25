@@ -102,7 +102,7 @@ function ajouterMot() {
         // IMPORTANT: Mettre à jour la liste affichée
         afficherListeMots();
 
-        inputAnglais.focus();
+        conteneurAnglais.focus();
     }
 }
 
