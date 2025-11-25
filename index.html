@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Flashcards Vocabulaire Anglais</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Mon Entraînement Vocabulaire 📝</h1>
+
+    <div id="gestion-mots">
+        <h2>Ajouter un mot</h2>
+        
+        <form id="formulaire-ajout">
+        <input type="text" class = "input_txt" id="input-anglais" placeholder="Mot en Anglais">
+        <input type="text" class = "input_txt" id="input-francais" placeholder="Mot en Français">
+        <button onclick="ajouterMot()">Ajouter la paire</button>
+        </form>
+        
+        <hr> <h2>Partage & Sauvegarde</h2>
+        <button onclick="exporterMots()">Exporter les mots (JSON)</button>
+        
+        <br><br>
+        
+        <label for="fichier-import">Importer un fichier JSON :</label>
+        <input type="file" id="fichier-import" accept=".json" onchange="importerMots(event)">
+    </div>
+
+    <hr>
+
+    <div id="entrainement">
+        <h2>Mode Entraînement</h2>
+        <button onclick="commencerTest()">Commencer le test</button>
+        
+        <div id="zone-test" style="display: none;">
+            <p>Traduisez le mot : <strong id="mot-a-traduire"></strong></p>
+            <form id="formulaire-entrainement">
+                <input type="text" id="input-guess" placeholder="Votre traduction">
+                <button onclick="verifierReponse()">Vérifier</button>
+            </form>
+            <p id="resultat"></p>
+        </div>
+    </div>
+    
+    <hr>
+    
+    <div id="liste-mots-enregistres">
+        <h2>Mots Enregistrés (<span id="compteur-mots">0</span>)</h2>
+        <ul id="liste-vocabulaire">
+            </ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

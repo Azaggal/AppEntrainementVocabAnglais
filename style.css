@@ -1,0 +1,93 @@
+.missing {
+    background-color: red;
+}
+
+/* ------------------------------------ */
+/* --- Styles de base pour l'Input --- */
+/* ------------------------------------ */
+
+.input_txt {
+    /* Typographie et couleur de base */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333; /* Texte sombre */
+    
+    /* Dimensions et espacement */
+    width: 100%; /* S'étale sur toute la largeur disponible */
+    padding: 12px 15px; /* Espace intérieur (haut/bas et gauche/droite) */
+    margin: 8px 0; /* Espace extérieur */
+    
+    /* Le 'look' moderne: Bordure subtile et coins arrondis */
+    border: 1px solid #ccc; /* Bordure fine et claire */
+    border-radius: 8px; /* Coins légèrement arrondis */
+    
+    /* Effet d'ombre subtil pour le faire ressortir (profondeur) */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    
+    /* Pour que le padding n'affecte pas la largeur totale */
+    box-sizing: border-box; 
+    margin-right: 10px;
+    margin-left: 10px;
+    
+    /* Transition pour l'animation (voir l'état :focus) */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#formulaire-ajout button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333; /* Texte sombre */
+
+    padding: 12px 15px;
+
+    margin: 8px 0; /* Espace extérieur */
+
+    background-color: white;
+
+    border: 1px solid #ccc; /* Bordure fine et claire */
+    border-radius: 8px; /* Coins légèrement arrondis */
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+#formulaire-ajout button:hover {
+    cursor:pointer;
+    background-color: #2e2e2e2a;
+}
+
+/* ------------------------------------ */
+/* --- État actif (Focus State) --- */
+/* ------------------------------------ */
+
+.input_txt:focus {
+    /* Retire la bordure par défaut du navigateur */
+    outline: none; 
+    
+    /* Bordure de couleur vive pour indiquer l'élément actif */
+    border-color: #007bff; /* Bleu éclatant (ou votre couleur de marque) */
+    
+    /* Ombre d'accessibilité : une ombre extérieure de la même couleur */
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25);
+}
+
+/* ------------------------------------ */
+/* --- État de survol (Hover State) --- */
+/* ------------------------------------ */
+
+.input_txt:hover {
+    border-color: #999; /* La bordure devient légèrement plus foncée */
+}
+
+.rp_correct {
+    background-color: green;
+}
+
+.rp_fausse {
+    background-color: red;
+}
+
+#formulaire-ajout {
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+}
