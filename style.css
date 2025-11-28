@@ -33,6 +33,74 @@
     transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
+h2 {
+    text-align: center;
+    color : #888888;
+}
+
+#entrainement {
+    text-align: center;
+}
+
+
+#entrainement button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333; /* Texte sombre */
+
+    padding: 12px 15px;
+
+    margin: 8px 0; /* Espace extérieur */
+
+    background-color: white;
+
+    border: 1px solid #ccc; /* Bordure fine et claire */
+    border-radius: 8px; /* Coins légèrement arrondis */
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+#formulaire-entrainement input {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333; /* Texte sombre */
+    
+    /* Dimensions et espacement */
+    width: 30%; /* S'étale sur toute la largeur disponible */
+    padding: 12px 15px; /* Espace intérieur (haut/bas et gauche/droite) */
+    margin: 8px 0; /* Espace extérieur */
+    
+    /* Le 'look' moderne: Bordure subtile et coins arrondis */
+    border: 1px solid #ccc; /* Bordure fine et claire */
+    border-radius: 8px; /* Coins légèrement arrondis */
+    
+    /* Effet d'ombre subtil pour le faire ressortir (profondeur) */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    
+    /* Pour que le padding n'affecte pas la largeur totale */
+    box-sizing: border-box; 
+    margin-right: 10px;
+    margin-left: 10px;
+    
+    /* Transition pour l'animation (voir l'état :focus) */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+
+}
+
+#entrainement p {
+    font-size: 20px;
+}
+
+
+#entrainement button:hover {
+    cursor:pointer;
+    background-color: #2e2e2e2a;
+}
+
+#boutonStart {
+    align-self: center;
+}
+
 #formulaire-ajout button {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
@@ -50,10 +118,81 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
+
 #formulaire-ajout button:hover {
     cursor:pointer;
     background-color: #2e2e2e2a;
 }
+
+#feedback-container {
+    overflow: hidden;
+    background-color: white;
+    bottom: 0;
+    right: 0;
+    height: 35%;
+    position: fixed;
+}
+
+#feedback {
+    height: 100%;
+    transform: translateY(-40%);
+
+    overflow : hidden;
+}
+
+#tableau-vocabulaire {
+    width: 80%;
+    border-collapse: collapse; /* Supprime les doubles bordures */
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#tableau-vocabulaire th, 
+#tableau-vocabulaire td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+#tableau-vocabulaire th {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #333; /* Texte sombre */
+
+    padding: 12px 15px;
+
+    margin: 8px 0; /* Espace extérieur */
+
+    background-color: white;
+
+    border: 1px solid #ccc; /* Bordure fine et claire */
+    border-radius: 20px; /* Coins légèrement arrondis */
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Style pour indiquer que la ligne est cliquable (pour la suppression) */
+#tableau-vocabulaire tbody tr {
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+/* Effet de survol pour une meilleure ergonomie */
+#tableau-vocabulaire tbody tr:hover {
+    background-color: #ffe0e0; /* Couleur rouge très pâle pour suggérer la suppression */
+}
+
+#champs-dynamiques {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+
 
 /* ------------------------------------ */
 /* --- État actif (Focus State) --- */
@@ -84,10 +223,4 @@
 
 .rp_fausse {
     background-color: red;
-}
-
-#formulaire-ajout {
-    display: flex;
-    margin-left: 200px;
-    margin-right: 200px;
 }

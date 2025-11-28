@@ -1,186 +1,186 @@
 [
   {
-    "anglais": "binder",
-    "francais": "classeur"
+    "anglais": ["binder"],
+    "francais": ["classeur"]
   },
   {
-    "anglais": "cartridge",
-    "francais": "cartouche"
+    "anglais": ["cartridge"],
+    "francais": ["cartouche"]
   },
   {
-    "anglais": "chair",
-    "francais": "chaise"
+    "anglais": ["chair"],
+    "francais": ["chaise"]
   },
   {
-    "anglais": "clock",
-    "francais": "horloge"
+    "anglais": ["clock"],
+    "francais": ["horloge"]
   },
   {
-    "anglais": "desk",
-    "francais": "bureau"
+    "anglais": ["desk"],
+    "francais": ["bureau"]
   },
   {
-    "anglais": "drawer",
-    "francais": "tiroir"
+    "anglais": ["drawer"],
+    "francais": ["tiroir"]
   },
   {
-    "anglais": "folder",
-    "francais": "dossier"
+    "anglais": ["folder"],
+    "francais": ["dossier"]
   },
   {
-    "anglais": "file",
-    "francais": "classeur"
+    "anglais": ["file"],
+    "francais": ["classeur"]
   },
   {
-    "anglais": "headphones",
-    "francais": "casque audio"
+    "anglais": ["headphones"],
+    "francais": ["casque audio"]
   },
   {
-    "anglais": "ink",
-    "francais": "encre"
+    "anglais": ["ink"],
+    "francais": ["encre"]
   },
   {
-    "anglais": "in tray",
-    "francais": "corbeille d'arrivée"
+    "anglais": ["in tray"],
+    "francais": ["corbeille d'arrivée"]
   },
   {
-    "anglais": "notepad",
-    "francais": "bloc-notes"
+    "anglais": ["notepad"],
+    "francais": ["bloc-notes"]
   },
   {
-    "anglais": "office",
-    "francais": "bureau"
+    "anglais": ["office"],
+    "francais": ["bureau"]
   },
   {
-    "anglais": "photocopier",
-    "francais": "photocopieuse"
+    "anglais": ["photocopier"],
+    "francais": ["photocopieuse"]
   },
   {
-    "anglais": "refrain from",
-    "francais": "s'abstenir de"
+    "anglais": ["refrain from"],
+    "francais": ["s'abstenir de"]
   },
   {
-    "anglais": "run out of",
-    "francais": "manquer de"
+    "anglais": ["run out of"],
+    "francais": ["manquer de"]
   },
   {
-    "anglais": "shelf",
-    "francais": "etagere"
+    "anglais": ["shelf"],
+    "francais": ["etagere"]
   },
   {
-    "anglais": "stapler",
-    "francais": "agrafeuse"
+    "anglais": ["stapler"],
+    "francais": ["agrafeuse"]
   },
   {
-    "anglais": "tape",
-    "francais": "ruban adhésif"
+    "anglais": ["tape"],
+    "francais": ["ruban adhésif"]
   },
   {
-    "anglais": "wastepaper basket",
-    "francais": "corbeille à papier"
+    "anglais": ["wastepaper basket"],
+    "francais": ["corbeille à papier"]
   },
   {
-    "anglais": "water cooler",
-    "francais": "fontaine à eau"
+    "anglais": ["water cooler"],
+    "francais": ["fontaine à eau"]
   },
   {
-    "anglais": "back up",
-    "francais": "sauvegarder"
+    "anglais": ["back up"],
+    "francais": ["sauvegarder"]
   },
   {
-    "anglais": "click",
-    "francais": "cliquer"
+    "anglais": ["click"],
+    "francais": ["cliquer"]
   },
   {
-    "anglais": "coating",
-    "francais": "revêtement"
+    "anglais": ["coating"],
+    "francais": ["revêtement"]
   },
   {
-    "anglais": "desktop",
-    "francais": "ordinateur de bureau"
+    "anglais": ["desktop"],
+    "francais": ["ordinateur de bureau"]
   },
   {
-    "anglais": "device",
-    "francais": "appareil"
+    "anglais": ["device"],
+    "francais": ["appareil"]
   },
   {
-    "anglais": "drag and drop",
-    "francais": "glisser-déposer"
+    "anglais": ["drag and drop"],
+    "francais": ["glisser-déposer"]
   },
   {
-    "anglais": "feature",
-    "francais": "caractéristique"
+    "anglais": ["feature"],
+    "francais": ["caractéristique"]
   },
   {
-    "anglais": "function",
-    "francais": "fonction"
+    "anglais": ["function"],
+    "francais": ["fonction"]
   },
   {
-    "anglais": "hardware",
-    "francais": "matériel informatique"
+    "anglais": ["hardware"],
+    "francais": ["matériel informatique"]
   },
   {
-    "anglais": "key",
-    "francais": "touche"
+    "anglais": ["key"],
+    "francais": ["touche"]
   },
   {
-    "anglais": "laptop",
-    "francais": "ordinateur portable"
+    "anglais": ["laptop"],
+    "francais": ["ordinateur portable"]
   },
   {
-    "anglais": "model",
-    "francais": "modèle"
+    "anglais": ["model"],
+    "francais": ["modèle"]
   },
   {
-    "anglais": "monitor",
-    "francais": "moniteur"
+    "anglais": ["monitor"],
+    "francais": ["moniteur"]
   },
   {
-    "anglais": "mouse",
-    "francais": "souris"
+    "anglais": ["mouse"],
+    "francais": ["souris"]
   },
   {
-    "anglais": "plug in",
-    "francais": "brancher"
+    "anglais": ["plug in"],
+    "francais": ["brancher"]
   },
   {
-    "anglais": "printer",
-    "francais": "imprimante"
+    "anglais": ["printer"],
+    "francais": ["imprimante"]
   },
   {
-    "anglais": "recharge",
-    "francais": "recharger"
+    "anglais": ["recharge"],
+    "francais": ["recharger"]
   },
   {
-    "anglais": "select",
-    "francais": "sélectionner"
+    "anglais": ["select"],
+    "francais": ["sélectionner"]
   },
   {
-    "anglais": "share",
-    "francais": "partager"
+    "anglais": ["share"],
+    "francais": ["partager"]
   },
   {
-    "anglais": "significant",
-    "francais": "considérable"
+    "anglais": ["significant"],
+    "francais": ["considérable"]
   },
   {
-    "anglais": "software",
-    "francais": "logiciel"
+    "anglais": ["software"],
+    "francais": ["logiciel"]
   },
   {
-    "anglais": "swipe",
-    "francais": "faire défiler"
+    "anglais": ["swipe"],
+    "francais": ["faire défiler"]
   },
   {
-    "anglais": "user-friendly",
-    "francais": "intuitif"
+    "anglais": ["user-friendly"],
+    "francais": ["intuitif"]
   },
   {
-    "anglais": "voicemail",
-    "francais": "messagerie vocale"
+    "anglais": ["voicemail"],
+    "francais": ["messagerie vocale"]
   },
   {
-    "anglais": "account manager",
-    "francais": "chargé de clientèle"
+    "anglais": ["account manager"],
+    "francais": ["chargé de clientèle"]
   }
 ]
