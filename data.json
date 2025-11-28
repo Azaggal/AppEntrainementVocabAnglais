@@ -1,186 +1,777 @@
 [
   {
-    "anglais": ["binder"],
-    "francais": ["classeur"]
+    "anglais": [
+      "binder"
+    ],
+    "francais": [
+      "classeur"
+    ]
   },
   {
-    "anglais": ["cartridge"],
-    "francais": ["cartouche"]
+    "anglais": [
+      "cartridge"
+    ],
+    "francais": [
+      "cartouche"
+    ]
   },
   {
-    "anglais": ["chair"],
-    "francais": ["chaise"]
+    "anglais": [
+      "chair"
+    ],
+    "francais": [
+      "chaise"
+    ]
   },
   {
-    "anglais": ["clock"],
-    "francais": ["horloge"]
+    "anglais": [
+      "clock"
+    ],
+    "francais": [
+      "horloge"
+    ]
   },
   {
-    "anglais": ["desk"],
-    "francais": ["bureau"]
+    "anglais": [
+      "desk"
+    ],
+    "francais": [
+      "bureau"
+    ]
   },
   {
-    "anglais": ["drawer"],
-    "francais": ["tiroir"]
+    "anglais": [
+      "drawer"
+    ],
+    "francais": [
+      "tiroir"
+    ]
   },
   {
-    "anglais": ["folder"],
-    "francais": ["dossier"]
+    "anglais": [
+      "headphones"
+    ],
+    "francais": [
+      "casque audio"
+    ]
   },
   {
-    "anglais": ["file"],
-    "francais": ["classeur"]
+    "anglais": [
+      "ink"
+    ],
+    "francais": [
+      "encre"
+    ]
   },
   {
-    "anglais": ["headphones"],
-    "francais": ["casque audio"]
+    "anglais": [
+      "in tray"
+    ],
+    "francais": [
+      "corbeille d'arrivée"
+    ]
   },
   {
-    "anglais": ["ink"],
-    "francais": ["encre"]
+    "anglais": [
+      "notepad"
+    ],
+    "francais": [
+      "bloc-notes"
+    ]
   },
   {
-    "anglais": ["in tray"],
-    "francais": ["corbeille d'arrivée"]
+    "anglais": [
+      "office"
+    ],
+    "francais": [
+      "bureau"
+    ]
   },
   {
-    "anglais": ["notepad"],
-    "francais": ["bloc-notes"]
+    "anglais": [
+      "photocopier"
+    ],
+    "francais": [
+      "photocopieuse"
+    ]
   },
   {
-    "anglais": ["office"],
-    "francais": ["bureau"]
+    "anglais": [
+      "refrain from"
+    ],
+    "francais": [
+      "s'abstenir de"
+    ]
   },
   {
-    "anglais": ["photocopier"],
-    "francais": ["photocopieuse"]
+    "anglais": [
+      "shelf"
+    ],
+    "francais": [
+      "etagere"
+    ]
   },
   {
-    "anglais": ["refrain from"],
-    "francais": ["s'abstenir de"]
+    "anglais": [
+      "stapler"
+    ],
+    "francais": [
+      "agrafeuse"
+    ]
   },
   {
-    "anglais": ["run out of"],
-    "francais": ["manquer de"]
+    "anglais": [
+      "water cooler"
+    ],
+    "francais": [
+      "fontaine à eau"
+    ]
   },
   {
-    "anglais": ["shelf"],
-    "francais": ["etagere"]
+    "anglais": [
+      "back up"
+    ],
+    "francais": [
+      "sauvegarder"
+    ]
   },
   {
-    "anglais": ["stapler"],
-    "francais": ["agrafeuse"]
+    "anglais": [
+      "click"
+    ],
+    "francais": [
+      "cliquer"
+    ]
   },
   {
-    "anglais": ["tape"],
-    "francais": ["ruban adhésif"]
+    "anglais": [
+      "coating"
+    ],
+    "francais": [
+      "revêtement"
+    ]
   },
   {
-    "anglais": ["wastepaper basket"],
-    "francais": ["corbeille à papier"]
+    "anglais": [
+      "device"
+    ],
+    "francais": [
+      "appareil"
+    ]
   },
   {
-    "anglais": ["water cooler"],
-    "francais": ["fontaine à eau"]
+    "anglais": [
+      "drag and drop"
+    ],
+    "francais": [
+      "glisser-déposer"
+    ]
   },
   {
-    "anglais": ["back up"],
-    "francais": ["sauvegarder"]
+    "anglais": [
+      "hardware"
+    ],
+    "francais": [
+      "matériel informatique"
+    ]
   },
   {
-    "anglais": ["click"],
-    "francais": ["cliquer"]
+    "anglais": [
+      "key"
+    ],
+    "francais": [
+      "touche"
+    ]
   },
   {
-    "anglais": ["coating"],
-    "francais": ["revêtement"]
+    "anglais": [
+      "laptop"
+    ],
+    "francais": [
+      "ordinateur portable"
+    ]
   },
   {
-    "anglais": ["desktop"],
-    "francais": ["ordinateur de bureau"]
+    "anglais": [
+      "model"
+    ],
+    "francais": [
+      "modèle"
+    ]
   },
   {
-    "anglais": ["device"],
-    "francais": ["appareil"]
+    "anglais": [
+      "mouse"
+    ],
+    "francais": [
+      "souris"
+    ]
   },
   {
-    "anglais": ["drag and drop"],
-    "francais": ["glisser-déposer"]
+    "anglais": [
+      "plug in"
+    ],
+    "francais": [
+      "brancher"
+    ]
   },
   {
-    "anglais": ["feature"],
-    "francais": ["caractéristique"]
+    "anglais": [
+      "printer"
+    ],
+    "francais": [
+      "imprimante"
+    ]
   },
   {
-    "anglais": ["function"],
-    "francais": ["fonction"]
+    "anglais": [
+      "recharge"
+    ],
+    "francais": [
+      "recharger"
+    ]
   },
   {
-    "anglais": ["hardware"],
-    "francais": ["matériel informatique"]
+    "anglais": [
+      "select"
+    ],
+    "francais": [
+      "sélectionner"
+    ]
   },
   {
-    "anglais": ["key"],
-    "francais": ["touche"]
+    "anglais": [
+      "share"
+    ],
+    "francais": [
+      "partager"
+    ]
   },
   {
-    "anglais": ["laptop"],
-    "francais": ["ordinateur portable"]
+    "anglais": [
+      "significant"
+    ],
+    "francais": [
+      "considérable"
+    ]
   },
   {
-    "anglais": ["model"],
-    "francais": ["modèle"]
+    "anglais": [
+      "software"
+    ],
+    "francais": [
+      "logiciel"
+    ]
   },
   {
-    "anglais": ["monitor"],
-    "francais": ["moniteur"]
+    "anglais": [
+      "voicemail"
+    ],
+    "francais": [
+      "messagerie vocale"
+    ]
   },
   {
-    "anglais": ["mouse"],
-    "francais": ["souris"]
+    "anglais": [
+      "account manager"
+    ],
+    "francais": [
+      "chargé de clientèle"
+    ]
   },
   {
-    "anglais": ["plug in"],
-    "francais": ["brancher"]
+    "anglais": [
+      "file"
+    ],
+    "francais": [
+      "dossier",
+      "chemise",
+      "classer"
+    ]
   },
   {
-    "anglais": ["printer"],
-    "francais": ["imprimante"]
+    "anglais": [
+      "folder"
+    ],
+    "francais": [
+      "dossier",
+      "classeur"
+    ]
   },
   {
-    "anglais": ["recharge"],
-    "francais": ["recharger"]
+    "anglais": [
+      "run out of"
+    ],
+    "francais": [
+      "manquer de",
+      "ne plus avoir de"
+    ]
   },
   {
-    "anglais": ["select"],
-    "francais": ["sélectionner"]
+    "anglais": [
+      "tape"
+    ],
+    "francais": [
+      "ruban adhésif",
+      "scotcher"
+    ]
   },
   {
-    "anglais": ["share"],
-    "francais": ["partager"]
+    "anglais": [
+      "wastepaper basket"
+    ],
+    "francais": [
+      "poubelle",
+      "corbeille à papier"
+    ]
   },
   {
-    "anglais": ["significant"],
-    "francais": ["considérable"]
+    "anglais": [
+      "desktop"
+    ],
+    "francais": [
+      "ordinateur de bureau",
+      "bureau"
+    ]
   },
   {
-    "anglais": ["software"],
-    "francais": ["logiciel"]
+    "anglais": [
+      "feature"
+    ],
+    "francais": [
+      "caractéristique",
+      "fonction"
+    ]
   },
   {
-    "anglais": ["swipe"],
-    "francais": ["faire défiler"]
+    "anglais": [
+      "function"
+    ],
+    "francais": [
+      "fonction",
+      "fonctionner"
+    ]
   },
   {
-    "anglais": ["user-friendly"],
-    "francais": ["intuitif"]
+    "anglais": [
+      "monitor"
+    ],
+    "francais": [
+      "moniteur",
+      "surveiller",
+      "suivre"
+    ]
   },
   {
-    "anglais": ["voicemail"],
-    "francais": ["messagerie vocale"]
+    "anglais": [
+      "swipe"
+    ],
+    "francais": [
+      "faire défiler",
+      "glisser"
+    ]
   },
   {
-    "anglais": ["account manager"],
-    "francais": ["chargé de clientèle"]
+    "anglais": [
+      "user-friendly"
+    ],
+    "francais": [
+      "intuitif",
+      "convivial"
+    ]
+  },
+  {
+    "anglais": [
+      "board member"
+    ],
+    "francais": [
+      "membre du conseil d'administration"
+    ]
+  },
+  {
+    "anglais": [
+      "CEO"
+    ],
+    "francais": [
+      "PDG"
+    ]
+  },
+  {
+    "anglais": [
+      "CFO"
+    ],
+    "francais": [
+      "directeur financier"
+    ]
+  },
+  {
+    "anglais": [
+      "clerk"
+    ],
+    "francais": [
+      "employé de bureau"
+    ]
+  },
+  {
+    "anglais": [
+      "contractor"
+    ],
+    "francais": [
+      "prestataire",
+      "contractuel",
+      "entrepreneur"
+    ]
+  },
+  {
+    "anglais": [
+      "coworker"
+    ],
+    "francais": [
+      "collègue"
+    ]
+  },
+  {
+    "anglais": [
+      "engineer"
+    ],
+    "francais": [
+      "ingénieur"
+    ]
+  },
+  {
+    "anglais": [
+      "executive"
+    ],
+    "francais": [
+      "cadre",
+      "exécutif",
+      "classe affaires"
+    ]
+  },
+  {
+    "anglais": [
+      "floor manager"
+    ],
+    "francais": [
+      "chef de rayon"
+    ]
+  },
+  {
+    "anglais": [
+      "graphic designer"
+    ],
+    "francais": [
+      "graphiste"
+    ]
+  },
+  {
+    "anglais": [
+      "head of departement"
+    ],
+    "francais": [
+      "chef de service"
+    ]
+  },
+  {
+    "anglais": [
+      "Human Ressources director"
+    ],
+    "francais": [
+      "DRH"
+    ]
+  },
+  {
+    "anglais": [
+      "intern"
+    ],
+    "francais": [
+      "stagiaire"
+    ]
+  },
+  {
+    "anglais": [
+      "IT technician"
+    ],
+    "francais": [
+      "informaticien"
+    ]
+  },
+  {
+    "anglais": [
+      "job seeker"
+    ],
+    "francais": [
+      "demandeur d'emploi"
+    ]
+  },
+  {
+    "anglais": [
+      "management"
+    ],
+    "francais": [
+      "la direction",
+      "la gestion"
+    ]
+  },
+  {
+    "anglais": [
+      "office manager"
+    ],
+    "francais": [
+      "responsable administratif"
+    ]
+  },
+  {
+    "anglais": [
+      "Personnal assistant"
+    ],
+    "francais": [
+      "assistant de direction"
+    ]
+  },
+  {
+    "anglais": [
+      "sales rep",
+      "salesperson"
+    ],
+    "francais": [
+      "commercial",
+      "représentant"
+    ]
+  },
+  {
+    "anglais": [
+      "security guard"
+    ],
+    "francais": [
+      "agent de sécurité"
+    ]
+  },
+  {
+    "anglais": [
+      "site manager"
+    ],
+    "francais": [
+      "chef de chantier",
+      "responsable du site"
+    ]
+  },
+  {
+    "anglais": [
+      "temp"
+    ],
+    "francais": [
+      "intérimaire"
+    ]
+  },
+  {
+    "anglais": [
+      "apply"
+    ],
+    "francais": [
+      "postuler",
+      "poser sa candidature"
+    ]
+  },
+  {
+    "anglais": [
+      "appoint"
+    ],
+    "francais": [
+      "nommer"
+    ]
+  },
+  {
+    "anglais": [
+      "appraisal"
+    ],
+    "francais": [
+      "évaluation"
+    ]
+  },
+  {
+    "anglais": [
+      "assess"
+    ],
+    "francais": [
+      "évaluer"
+    ]
+  },
+  {
+    "anglais": [
+      "asset"
+    ],
+    "francais": [
+      "atout"
+    ]
+  },
+  {
+    "anglais": [
+      "attendance"
+    ],
+    "francais": [
+      "taux de présence"
+    ]
+  },
+  {
+    "anglais": [
+      "clock in"
+    ],
+    "francais": [
+      "pointer en arrivant"
+    ]
+  },
+  {
+    "anglais": [
+      "clock out"
+    ],
+    "francais": [
+      "pointer en partant"
+    ]
+  },
+  {
+    "anglais": [
+      "credentials"
+    ],
+    "francais": [
+      "qualifications",
+      "références"
+    ]
+  },
+  {
+    "anglais": [
+      "dismiss"
+    ],
+    "francais": [
+      "renvoyer"
+    ]
+  },
+  {
+    "anglais": [
+      "downsize"
+    ],
+    "francais": [
+      "réduire les effectifs"
+    ]
+  },
+  {
+    "anglais": [
+      "fill out"
+    ],
+    "francais": [
+      "remplir"
+    ]
+  },
+  {
+    "anglais": [
+      "give notice"
+    ],
+    "francais": [
+      "donner son préavis"
+    ]
+  },
+  {
+    "anglais": [
+      "hire"
+    ],
+    "francais": [
+      "recrue",
+      "personne embauchée",
+      "embaucher",
+      "engager"
+    ]
+  },
+  {
+    "anglais": [
+      "lay off"
+    ],
+    "francais": [
+      "licencier"
+    ]
+  },
+  {
+    "anglais": [
+      "leave"
+    ],
+    "francais": [
+      "congé",
+      "partir"
+    ]
+  },
+  {
+    "anglais": [
+      "manpower"
+    ],
+    "francais": [
+      "main-d'oeuvre",
+      "effectifs"
+    ]
+  },
+  {
+    "anglais": [
+      "provide"
+    ],
+    "francais": [
+      "fournir"
+    ]
+  },
+  {
+    "anglais": [
+      "resign"
+    ],
+    "francais": [
+      "démissionner"
+    ]
+  },
+  {
+    "anglais": [
+      "résumé"
+    ],
+    "francais": [
+      "CV",
+      "curriculum vitae"
+    ]
+  },
+  {
+    "anglais": [
+      "shortlist"
+    ],
+    "francais": [
+      "les candidats finalistes",
+      "présélectionner"
+    ]
+  },
+  {
+    "anglais": [
+      "take on"
+    ],
+    "francais": [
+      "embaucher"
+    ]
+  },
+  {
+    "anglais": [
+      "temp agency"
+    ],
+    "francais": [
+      "agence d'intérim"
+    ]
+  },
+  {
+    "anglais": [
+      "transfer"
+    ],
+    "francais": [
+      "mutation",
+      "muter"
+    ]
+  },
+  {
+    "anglais": [
+      "vacancy"
+    ],
+    "francais": [
+      "poste vacant"
+    ]
   }
 ]
