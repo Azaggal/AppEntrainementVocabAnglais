@@ -36,6 +36,47 @@ function sauvegarderMots(mots) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(mots));
 }
 
+
+function mettreAJourProgression() {
+    const mots = chargerMots();
+    let totalTests = 0;
+    let testsEffectues = 0;
+
+    mots.forEach(paire => {
+        if (paire.tested && Array.isArray(paire.tested)) {
+            totalTests += paire.tested.length;
+            
+            paire.tested.forEach(test => {
+                if (test.done === true) {
+                    testsEffectues++;
+                }
+            });
+        }
+    });
+
+    const pourcentageElement = document.getElementById('pourcentage-progression');
+    const barreInterieure = document.getElementById('barre-interieure');
+
+    let pourcentage = 0;
+    
+    if (totalTests > 0) {
+        // Calcul du pourcentage et arrondi à deux décimales
+        pourcentage = ((testsEffectues / totalTests) * 100).toFixed(1);
+    }
+    
+    // Mise à jour du texte et de la barre
+    pourcentageElement.textContent = `${pourcentage}% (${testsEffectues}/${totalTests})`;
+    barreInterieure.style.width = `${pourcentage}%`;
+    
+    // Optionnel : Changer la couleur si c'est fini
+    if (pourcentage === '100.0') {
+        barreInterieure.style.backgroundColor = '#008CBA'; // Bleu si 100%
+        pourcentageElement.textContent = `100% (Félicitations !)`;
+    }
+    
+    return totalTests > 0;
+}
+
 // ====================================================================
 // GESTION DE L'AFFICHAGE ET DE LA SUPPRESSION
 // ====================================================================
@@ -83,6 +124,7 @@ function supprimerMot(indexASupprimer) {
     mots.splice(indexASupprimer, 1);
     sauvegarderMots(mots);
     afficherListeMots(); 
+    mettreAJourProgression();
 }
 
 
@@ -228,7 +270,36 @@ function ajouterMot() {
 
     // Stockage de la nouvelle paire
     const mots = chargerMots();
-    mots.push({ anglais: motsAnglais, francais: motsFrancais });
+    const newPaire = {
+    anglais: motsAnglais, 
+    francais: motsFrancais,
+    // Initialisation d'un tableau pour suivre toutes les combinaisons de test
+    // Le test sera : (anglais[i] -> francais) et (francais[j] -> anglais)
+    tested: []
+    
+};
+
+motsAnglais.forEach((a, i) => {
+    // Test : Anglais[i] -> Français
+    newPaire.tested.push({ 
+        source: 'anglais', 
+        index: i, 
+        direction: 'anglais-francais', 
+        done: false 
+    });
+});
+
+motsFrancais.forEach((f, j) => {
+    // Test : Français[j] -> Anglais
+    newPaire.tested.push({ 
+        source: 'francais', 
+        index: j, 
+        direction: 'francais-anglais', 
+        done: false 
+    });
+});
+
+mots.push(newPaire);
     sauvegarderMots(mots);
     
     // Nettoyage des valeurs et affichage
@@ -237,54 +308,75 @@ function ajouterMot() {
 
     afficherListeMots();
     document.getElementById('input-anglais-0')?.focus(); 
+
+    mettreAJourProgression();
 }
 
 // ====================================================================
 // GESTION DU MODE ENTRAÎNEMENT
 // ====================================================================
 
+// script.js (Fonction commencerTest)
+
 function commencerTest() {
     const mots = chargerMots();
-    if (mots.length === 0) {
-        alert("Ajoutez d'abord des mots pour commencer le test !");
+
+    document.getElementById('input-guess').classList = '';
+    
+    // 1. Trouver tous les tests qui n'ont pas encore été faits
+    let testsRestants = [];
+    mots.forEach((paire, indexMots) => {
+        paire.tested.forEach((test, indexTest) => {
+            if (test.done === false) {
+                // Stocker l'index de la paire dans le tableau 'mots'
+                // et l'index du test dans le tableau 'tested'
+                testsRestants.push({ 
+                    motIndex: indexMots, 
+                    testIndex: indexTest, 
+                    details: test 
+                });
+            }
+        });
+    });
+
+    if (testsRestants.length === 0) {
+        document.getElementById('zone-test').style.display = 'none';
+        document.getElementById('resultat').textContent = "🎉 Félicitations ! Tous les mots et toutes les traductions ont été testés !";
         return;
     }
+
+    // 2. Choisir un test aléatoirement parmi les tests restants
+    const randomIndex = Math.floor(Math.random() * testsRestants.length);
+    const selectedTest = testsRestants[randomIndex];
     
-    document.getElementById('zone-test').style.display = 'block';
-
-    // 1. Choisir aléatoirement une paire
-    const randomIndex = Math.floor(Math.random() * mots.length);
-    currentWord = mots[randomIndex];
-
-    // 2. Tirer aléatoirement le sens du test (Anglais -> Français ou Français -> Anglais)
-    const sens = Math.random() < 0.5 ? 'anglais' : 'francais';
+    // Récupérer la paire de mots complète
+    currentWord = mots[selectedTest.motIndex]; 
+    // Stocker l'index du test spécifique pour le marquer comme 'done' plus tard
+    currentWord.currentTestIndex = selectedTest.testIndex; 
+    
+    const details = selectedTest.details;
 
     let motADisplay;
     let expectedArray;
 
-    if (sens === 'anglais') {
-        const sourceArray = currentWord.anglais;
+    if (details.direction === 'anglais-francais') {
+        // Le mot à afficher est le mot Anglais à l'index 'index'
+        motADisplay = currentWord.anglais[details.index];
+        // La réponse attendue est le tableau complet des traductions françaises
         expectedArray = currentWord.francais;
-        
-        // 3. Choisir un mot aléatoire parmi les sources
-        const randomSourceIndex = Math.floor(Math.random() * sourceArray.length);
-        motADisplay = sourceArray[randomSourceIndex];
-
-    } else { // sens === 'francais'
-        const sourceArray = currentWord.francais;
+    } else { // direction === 'francais-anglais'
+        // Le mot à afficher est le mot Français à l'index 'index'
+        motADisplay = currentWord.francais[details.index];
+        // La réponse attendue est le tableau complet des traductions anglaises
         expectedArray = currentWord.anglais;
-
-        // 3. Choisir un mot aléatoire parmi les sources
-        const randomSourceIndex = Math.floor(Math.random() * sourceArray.length);
-        motADisplay = sourceArray[randomSourceIndex];
     }
     
+    // 3. Affichage et stockage des attentes
+    document.getElementById('zone-test').style.display = 'block';
     document.getElementById('mot-a-traduire').textContent = motADisplay;
-    currentWord.expected = expectedArray;
+    currentWord.expected = expectedArray; // Ce tableau est utilisé par verifierReponse()
     
-    const inputGuess = document.getElementById('input-guess');
-    inputGuess.value = '';
-    inputGuess.classList = '';
+    document.getElementById('input-guess').value = '';
     document.getElementById('resultat').textContent = '';
     document.getElementById('input-guess').focus();
 }
@@ -315,22 +407,47 @@ function verifierReponse() {
     const guess = inputGuess.value.trim().toLowerCase();
     const resultatElement = document.getElementById('resultat');
 
-    // Mettre toutes les réponses attendues en minuscules pour la comparaison
     const expectedArray = currentWord.expected.map(word => String(word).trim().toLowerCase());
     
     let isCorrect = expectedArray.includes(guess);
 
     if (isCorrect) {
-        inputGuess.classList.add('rp_correct');
         resultatElement.textContent = "✅ Correct !";
+
+        inputGuess.classList = 'rp_correct';
+        
+        // 💡 CHANGEMENT CLÉ : Marquer le test actuel comme 'done: true'
+        const currentTestIndex = currentWord.currentTestIndex;
+        if (currentTestIndex !== undefined) {
+            
+            // 1. Charger la liste complète
+            const mots = chargerMots(); 
+            
+            // 2. Trouver la paire dans le tableau "mots" (elle a été sélectionnée par commencerTest)
+            const indexPaire = mots.findIndex(p => 
+                p.anglais.join() === currentWord.anglais.join() && 
+                p.francais.join() === currentWord.francais.join()
+            );
+
+            if (indexPaire !== -1) {
+                 // 3. Mettre à jour l'état du test spécifique
+                 mots[indexPaire].tested[currentTestIndex].done = true;
+                 // 4. Sauvegarder
+                 sauvegarderMots(mots);
+            }
+        }
+
+        mettreAJourProgression();
+        
     } else {
+        
+        inputGuess.classList = 'rp_fausse';
         const reponsesPossibles = expectedArray.join(', ');
-        inputGuess.classList.add('rp_fausse');
         resultatElement.textContent = `❌ Faux. Les réponses acceptées étaient : ${reponsesPossibles}`;
     }
     
     // Après vérification, préparer le prochain mot
-    setTimeout(commencerTest, 2000); 
+    setTimeout(commencerTest, 1500); 
 }
 
 // ====================================================================
@@ -394,6 +511,7 @@ function importerMots(event) {
 // Appel initial (au chargement complet de la page)
 window.onload = async () => {
     // 1. Chargement de la liste par défaut si le stockage est vide
+
     if (chargerMots().length === 0) {
         const listeChargee = await chargerListeParDefaut();
         // Si la liste par défaut n'est pas vide (data.json a fonctionné)
@@ -404,6 +522,12 @@ window.onload = async () => {
 
     // 2. Affichage initial des mots
     afficherListeMots();
+
+    const progressionExiste = mettreAJourProgression();
+
+    if (progressionExiste) {
+         activerBoutonStart(); 
+    }
 };
 
 // Appel après que le DOM est prêt (pour générer les premiers champs)

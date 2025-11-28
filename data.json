@@ -5,6 +5,10 @@
     ],
     "francais": [
       "classeur"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -13,6 +17,10 @@
     ],
     "francais": [
       "cartouche"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -21,6 +29,10 @@
     ],
     "francais": [
       "chaise"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -29,6 +41,10 @@
     ],
     "francais": [
       "horloge"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -37,6 +53,10 @@
     ],
     "francais": [
       "bureau"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -45,6 +65,10 @@
     ],
     "francais": [
       "tiroir"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -53,6 +77,10 @@
     ],
     "francais": [
       "casque audio"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -61,6 +89,10 @@
     ],
     "francais": [
       "encre"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -69,6 +101,10 @@
     ],
     "francais": [
       "corbeille d'arrivée"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -77,6 +113,10 @@
     ],
     "francais": [
       "bloc-notes"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -85,6 +125,10 @@
     ],
     "francais": [
       "bureau"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -93,6 +137,10 @@
     ],
     "francais": [
       "photocopieuse"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -101,6 +149,10 @@
     ],
     "francais": [
       "s'abstenir de"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -109,6 +161,10 @@
     ],
     "francais": [
       "etagere"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -117,6 +173,10 @@
     ],
     "francais": [
       "agrafeuse"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -125,6 +185,10 @@
     ],
     "francais": [
       "fontaine à eau"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -133,6 +197,10 @@
     ],
     "francais": [
       "sauvegarder"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -141,6 +209,10 @@
     ],
     "francais": [
       "cliquer"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -149,6 +221,10 @@
     ],
     "francais": [
       "revêtement"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -157,6 +233,10 @@
     ],
     "francais": [
       "appareil"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -165,6 +245,10 @@
     ],
     "francais": [
       "glisser-déposer"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -173,6 +257,10 @@
     ],
     "francais": [
       "matériel informatique"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -181,6 +269,10 @@
     ],
     "francais": [
       "touche"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -189,6 +281,10 @@
     ],
     "francais": [
       "ordinateur portable"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -197,6 +293,10 @@
     ],
     "francais": [
       "modèle"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -205,6 +305,10 @@
     ],
     "francais": [
       "souris"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -213,6 +317,10 @@
     ],
     "francais": [
       "brancher"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -221,6 +329,10 @@
     ],
     "francais": [
       "imprimante"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -229,6 +341,10 @@
     ],
     "francais": [
       "recharger"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -237,6 +353,10 @@
     ],
     "francais": [
       "sélectionner"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -245,6 +365,10 @@
     ],
     "francais": [
       "partager"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -253,6 +377,10 @@
     ],
     "francais": [
       "considérable"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -261,6 +389,10 @@
     ],
     "francais": [
       "logiciel"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -269,6 +401,10 @@
     ],
     "francais": [
       "messagerie vocale"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -277,6 +413,10 @@
     ],
     "francais": [
       "chargé de clientèle"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -287,6 +427,12 @@
       "dossier",
       "chemise",
       "classer"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -296,6 +442,11 @@
     "francais": [
       "dossier",
       "classeur"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -305,6 +456,11 @@
     "francais": [
       "manquer de",
       "ne plus avoir de"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -314,6 +470,11 @@
     "francais": [
       "ruban adhésif",
       "scotcher"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -323,6 +484,11 @@
     "francais": [
       "poubelle",
       "corbeille à papier"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -332,6 +498,11 @@
     "francais": [
       "ordinateur de bureau",
       "bureau"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -341,6 +512,11 @@
     "francais": [
       "caractéristique",
       "fonction"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -350,6 +526,11 @@
     "francais": [
       "fonction",
       "fonctionner"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -360,6 +541,12 @@
       "moniteur",
       "surveiller",
       "suivre"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -369,6 +556,11 @@
     "francais": [
       "faire défiler",
       "glisser"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -378,6 +570,11 @@
     "francais": [
       "intuitif",
       "convivial"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -386,6 +583,10 @@
     ],
     "francais": [
       "membre du conseil d'administration"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -394,6 +595,10 @@
     ],
     "francais": [
       "PDG"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -402,6 +607,10 @@
     ],
     "francais": [
       "directeur financier"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -410,6 +619,10 @@
     ],
     "francais": [
       "employé de bureau"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -420,6 +633,12 @@
       "prestataire",
       "contractuel",
       "entrepreneur"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -428,6 +647,10 @@
     ],
     "francais": [
       "collègue"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -436,6 +659,10 @@
     ],
     "francais": [
       "ingénieur"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -446,6 +673,12 @@
       "cadre",
       "exécutif",
       "classe affaires"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -454,6 +687,10 @@
     ],
     "francais": [
       "chef de rayon"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -462,6 +699,10 @@
     ],
     "francais": [
       "graphiste"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -470,6 +711,10 @@
     ],
     "francais": [
       "chef de service"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -478,6 +723,10 @@
     ],
     "francais": [
       "DRH"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -486,6 +735,10 @@
     ],
     "francais": [
       "stagiaire"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -494,6 +747,10 @@
     ],
     "francais": [
       "informaticien"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -502,6 +759,10 @@
     ],
     "francais": [
       "demandeur d'emploi"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -511,6 +772,11 @@
     "francais": [
       "la direction",
       "la gestion"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -519,6 +785,10 @@
     ],
     "francais": [
       "responsable administratif"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -527,6 +797,10 @@
     ],
     "francais": [
       "assistant de direction"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -537,6 +811,12 @@
     "francais": [
       "commercial",
       "représentant"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "anglais", "index": 1, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -545,6 +825,10 @@
     ],
     "francais": [
       "agent de sécurité"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -554,6 +838,11 @@
     "francais": [
       "chef de chantier",
       "responsable du site"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -562,6 +851,10 @@
     ],
     "francais": [
       "intérimaire"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -571,6 +864,11 @@
     "francais": [
       "postuler",
       "poser sa candidature"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -579,6 +877,10 @@
     ],
     "francais": [
       "nommer"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -587,6 +889,10 @@
     ],
     "francais": [
       "évaluation"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -595,6 +901,10 @@
     ],
     "francais": [
       "évaluer"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -603,6 +913,10 @@
     ],
     "francais": [
       "atout"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -611,6 +925,10 @@
     ],
     "francais": [
       "taux de présence"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -619,6 +937,10 @@
     ],
     "francais": [
       "pointer en arrivant"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -627,6 +949,10 @@
     ],
     "francais": [
       "pointer en partant"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -636,6 +962,11 @@
     "francais": [
       "qualifications",
       "références"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -644,6 +975,10 @@
     ],
     "francais": [
       "renvoyer"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -652,6 +987,10 @@
     ],
     "francais": [
       "réduire les effectifs"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -660,6 +999,10 @@
     ],
     "francais": [
       "remplir"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -668,6 +1011,10 @@
     ],
     "francais": [
       "donner son préavis"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -679,6 +1026,13 @@
       "personne embauchée",
       "embaucher",
       "engager"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 3, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -687,6 +1041,10 @@
     ],
     "francais": [
       "licencier"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -696,6 +1054,11 @@
     "francais": [
       "congé",
       "partir"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -705,6 +1068,11 @@
     "francais": [
       "main-d'oeuvre",
       "effectifs"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -713,6 +1081,10 @@
     ],
     "francais": [
       "fournir"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -721,6 +1093,10 @@
     ],
     "francais": [
       "démissionner"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -730,6 +1106,11 @@
     "francais": [
       "CV",
       "curriculum vitae"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -739,6 +1120,11 @@
     "francais": [
       "les candidats finalistes",
       "présélectionner"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -747,6 +1133,10 @@
     ],
     "francais": [
       "embaucher"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -755,6 +1145,10 @@
     ],
     "francais": [
       "agence d'intérim"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -764,6 +1158,11 @@
     "francais": [
       "mutation",
       "muter"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
+      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
     ]
   },
   {
@@ -772,6 +1171,10 @@
     ],
     "francais": [
       "poste vacant"
+    ],
+    "tested": [
+      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
+      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
     ]
   }
 ]
