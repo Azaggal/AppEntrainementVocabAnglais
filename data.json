@@ -1,230 +1,2334 @@
 [
   {
     "anglais": [
-      "binder"
+      "black ice"
     ],
     "francais": [
-      "classeur"
+      "verglas"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "cartridge"
+      "blow"
     ],
     "francais": [
-      "cartouche"
+      "souffler"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "chair"
+      "breeze"
     ],
     "francais": [
-      "chaise"
+      "brise"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "clock"
+      "bright"
     ],
     "francais": [
-      "horloge"
+      "ensoleillé"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "desk"
+      "cloud"
     ],
     "francais": [
-      "bureau"
+      "nuage"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "drawer"
+      "draft"
     ],
     "francais": [
-      "tiroir"
+      "courant d'air"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "headphones"
+      "drought"
     ],
     "francais": [
-      "casque audio"
+      "sécheresse"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "ink"
+      "flood, flooding"
     ],
     "francais": [
-      "encre"
+      "inondation, crue"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "in tray"
+      "fog"
     ],
     "francais": [
-      "corbeille d'arrivée"
+      "brouillard"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "notepad"
+      "forecast"
     ],
     "francais": [
-      "bloc-notes"
+      "prévision"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "office"
+      "frost"
     ],
     "francais": [
-      "bureau"
+      "gel, gelée"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "photocopier"
+      "hazardous"
     ],
     "francais": [
-      "photocopieuse"
+      "dangereux"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "refrain from"
+      "heatwave"
     ],
     "francais": [
-      "s'abstenir de"
+      "canicule"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "shelf"
+      "high"
     ],
     "francais": [
-      "etagere"
+      "température maximale"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "stapler"
+      "light"
     ],
     "francais": [
-      "agrafeuse"
+      "léger"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "water cooler"
+      "lightning"
     ],
     "francais": [
-      "fontaine à eau"
+      "éclair"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "back up"
+      "mild"
     ],
     "francais": [
-      "sauvegarder"
+      "doux"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "click"
+      "overcast"
     ],
     "francais": [
-      "cliquer"
+      "couvert"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "coating"
+      "rainfall"
     ],
     "francais": [
-      "revêtement"
+      "précipitations"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "shower"
+    ],
+    "francais": [
+      "averse"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "slippery"
+    ],
+    "francais": [
+      "glissant"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "snowfall"
+    ],
+    "francais": [
+      "chute de neige"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "storm"
+    ],
+    "francais": [
+      "orage, tempête"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "thunder"
+    ],
+    "francais": [
+      "tonnerre"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "sunny interval"
+    ],
+    "francais": [
+      "éclaircie"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "wet"
+    ],
+    "francais": [
+      "pluvieux"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "wind"
+    ],
+    "francais": [
+      "vent"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "abroad"
+    ],
+    "francais": [
+      "à l'étranger"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "air hostess"
+    ],
+    "francais": [
+      "hôtesse de l'air"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "baggage / luggage"
+    ],
+    "francais": [
+      "bagages"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "book (to)"
+    ],
+    "francais": [
+      "réserver"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "booking confirmation"
+    ],
+    "francais": [
+      "confirmation de réservation"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "bus lane"
+    ],
+    "francais": [
+      "voie de bus"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "business trip"
+    ],
+    "francais": [
+      "voyage d'affaires"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "cancelled"
+    ],
+    "francais": [
+      "annulé"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "car park"
+    ],
+    "francais": [
+      "parking"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "check out (to)"
+    ],
+    "francais": [
+      "quitter l'hôtel"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "check-in"
+    ],
+    "francais": [
+      "s'enregistrer"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "commuter train"
+    ],
+    "francais": [
+      "train de banlieue"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "customs"
+    ],
+    "francais": [
+      "douane"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "delayed"
+    ],
+    "francais": [
+      "en retard"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "departure"
+    ],
+    "francais": [
+      "départ"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "E.T.A. / E.T.D."
+    ],
+    "francais": [
+      "heure estimée d'arrivée / départ"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "elevator (US) / lift (UK)"
+    ],
+    "francais": [
+      "ascenseur"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "excess baggage"
+    ],
+    "francais": [
+      "frais pour surpoids de bagages"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "expenses"
+    ],
+    "francais": [
+      "dépense, frais"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "first / economy class"
+    ],
+    "francais": [
+      "première / classe économique"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "flight"
+    ],
+    "francais": [
+      "vol"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "flyover"
+    ],
+    "francais": [
+      "pont autoroutier"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "foreign currency"
+    ],
+    "francais": [
+      "devise étrangère"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "gas (US) / petrol (UK)"
+    ],
+    "francais": [
+      "essence"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "gate"
+    ],
+    "francais": [
+      "porte"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "give someone a lift (to)"
+    ],
+    "francais": [
+      "prendre quelqu'un dans sa voiture"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "hand luggage"
+    ],
+    "francais": [
+      "bagage à main"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "high speed train"
+    ],
+    "francais": [
+      "TGV"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "hire (to)"
+    ],
+    "francais": [
+      "louer"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "hold luggage"
+    ],
+    "francais": [
+      "bagage en soute"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "immigration (US) / passport control"
+    ],
+    "francais": [
+      "contrôle des passeports"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "insurance"
+    ],
+    "francais": [
+      "assurance"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "jet lag"
+    ],
+    "francais": [
+      "fatigue due au décalage horaire"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "journey"
+    ],
+    "francais": [
+      "voyage"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "leave (to)"
+    ],
+    "francais": [
+      "partir, quitter"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "leg room"
+    ],
+    "francais": [
+      "place pour les jambes"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "long-haul flight"
+    ],
+    "francais": [
+      "vol long courrier"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "mileage"
+    ],
+    "francais": [
+      "kilométrage"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "miss (to)"
+    ],
+    "francais": [
+      "louper / manquer"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "one-way"
+    ],
+    "francais": [
+      "aller simple"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "one-way system"
+    ],
+    "francais": [
+      "à sens unique"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "over-booked"
+    ],
+    "francais": [
+      "surbooké"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "over-charge (to)"
+    ],
+    "francais": [
+      "faire payer trop cher"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "passenger"
+    ],
+    "francais": [
+      "passager"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "pick up (to)"
+    ],
+    "francais": [
+      "aller chercher"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "refundable"
+    ],
+    "francais": [
+      "remboursable"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "rent (to)"
+    ],
+    "francais": [
+      "louer"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "round trip"
+    ],
+    "francais": [
+      "aller / retour"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "roundabout"
+    ],
+    "francais": [
+      "rond-point"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "runway"
+    ],
+    "francais": [
+      "piste de décollage"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "season ticket"
+    ],
+    "francais": [
+      "abonnement"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "short haul"
+    ],
+    "francais": [
+      "court-courrier"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "stand in line (to)"
+    ],
+    "francais": [
+      "faire la queue"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "station"
+    ],
+    "francais": [
+      "gare"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "stopover"
+    ],
+    "francais": [
+      "escale"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "tickets"
+    ],
+    "francais": [
+      "billets"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "time difference"
+    ],
+    "francais": [
+      "décalage horaire"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "toll"
+    ],
+    "francais": [
+      "péage"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "traffic jam"
+    ],
+    "francais": [
+      "embouteillage"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "traffic lights"
+    ],
+    "francais": [
+      "feux tricolores"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "travel (to)"
+    ],
+    "francais": [
+      "voyager"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "travel agency"
+    ],
+    "francais": [
+      "agence de voyage"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "trip"
+    ],
+    "francais": [
+      "voyage court"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "voyage"
+    ],
+    "francais": [
+      "voyage"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "appliance"
+    ],
+    "francais": [
+      "appareil"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "best-before date"
+    ],
+    "francais": [
+      "à consommer de préférence avant"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "built-in"
+    ],
+    "francais": [
+      "incorporé"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "cheap"
+    ],
+    "francais": [
+      "bon marché"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "conform with / to (to be)"
+    ],
+    "francais": [
+      "être conforme à"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "consumer durables"
+    ],
+    "francais": [
+      "biens de consommation durable"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "cordless"
+    ],
+    "francais": [
+      "sans fil"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "cost-effective"
+    ],
+    "francais": [
+      "rentable"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "costly / expensive"
+    ],
+    "francais": [
+      "cher"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "counterfeit goods"
+    ],
+    "francais": [
+      "contrefaçons"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "custom-made"
+    ],
+    "francais": [
+      "sur-mesure"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "cut-price"
+    ],
+    "francais": [
+      "à prix réduit"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "cutting-edge"
+    ],
+    "francais": [
+      "de pointe"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "defect"
+    ],
+    "francais": [
+      "imperfection"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "defective"
+    ],
+    "francais": [
+      "défectueux"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
@@ -232,335 +2336,703 @@
       "device"
     ],
     "francais": [
-      "appareil"
+      "appareil / dispositif"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "drag and drop"
+      "disposable"
     ],
     "francais": [
-      "glisser-déposer"
+      "jetable"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "hardware"
+      "easy-to-use"
     ],
     "francais": [
-      "matériel informatique"
+      "facile à utiliser"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "key"
+      "end user"
     ],
     "francais": [
-      "touche"
+      "utilisateur (final)"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "laptop"
+      "environment-friendly"
     ],
     "francais": [
-      "ordinateur portable"
+      "respectueux de l'environnement"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "model"
+      "eye-catching"
     ],
     "francais": [
-      "modèle"
+      "qui attire l'attention"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "mouse"
+      "flawed"
     ],
     "francais": [
-      "souris"
+      "qui présente des défauts"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "plug in"
+      "foodstuff"
     ],
     "francais": [
-      "brancher"
+      "denrée alimentaire"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "printer"
+      "good / bad value for money"
     ],
     "francais": [
-      "imprimante"
+      "bon / mauvais rapport qualité-prix"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "recharge"
+      "hand-made"
     ],
     "francais": [
-      "recharger"
+      "fait-main"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "select"
+      "harmless"
     ],
     "francais": [
-      "sélectionner"
+      "inoffensif"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "share"
+      "high-quality"
     ],
     "francais": [
-      "partager"
+      "de haute qualité"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "significant"
+      "improvement"
     ],
     "francais": [
-      "considérable"
+      "amélioration"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "software"
+      "impulse buying"
     ],
     "francais": [
-      "logiciel"
+      "achat d'impulsion"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "voicemail"
+      "innovative"
     ],
     "francais": [
-      "messagerie vocale"
+      "innovant"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "account manager"
+      "item"
     ],
     "francais": [
-      "chargé de clientèle"
+      "article"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "file"
+      "labour-saving"
     ],
     "francais": [
-      "dossier",
-      "chemise",
-      "classer"
+      "qui facilite le travail"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "folder"
+      "made-to-measure"
     ],
     "francais": [
-      "dossier",
-      "classeur"
+      "fait sur mesure"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "run out of"
+      "man-made"
     ],
     "francais": [
-      "manquer de",
-      "ne plus avoir de"
+      "artificiel"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "tape"
+      "no-brand articles"
     ],
     "francais": [
-      "ruban adhésif",
-      "scotcher"
+      "articles sans marque"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "wastepaper basket"
+      "P.L.B. Private Label Brand"
     ],
     "francais": [
-      "poubelle",
-      "corbeille à papier"
+      "marque de distributeur"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "desktop"
+      "produce"
     ],
     "francais": [
-      "ordinateur de bureau",
-      "bureau"
+      "fruits et légumes"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "feature"
+      "reliable"
     ],
     "francais": [
-      "caractéristique",
-      "fonction"
+      "fiable"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "function"
+      "removable"
     ],
     "francais": [
-      "fonction",
-      "fonctionner"
+      "amovible"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "monitor"
+      "requirement"
     ],
     "francais": [
-      "moniteur",
-      "surveiller",
-      "suivre"
+      "exigence, besoin"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "swipe"
+      "sample"
     ],
     "francais": [
-      "faire défiler",
-      "glisser"
+      "échantillon"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "semi-finished"
+    ],
+    "francais": [
+      "semi-fini"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "shelf life"
+    ],
+    "francais": [
+      "durée de conservation"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "staple goods"
+    ],
+    "francais": [
+      "aliments de base"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "supersede (to)"
+    ],
+    "francais": [
+      "remplacer"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "upgrade (to)"
+    ],
+    "francais": [
+      "moderniser / actualiser"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
+    ]
+  },
+  {
+    "anglais": [
+      "useless"
+    ],
+    "francais": [
+      "inutile"
+    ],
+    "tested": [
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
@@ -568,613 +3040,65 @@
       "user-friendly"
     ],
     "francais": [
-      "intuitif",
-      "convivial"
+      "facile à utiliser"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "board member"
+      "watertight"
     ],
     "francais": [
-      "membre du conseil d'administration"
+      "étanche à l'eau"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   },
   {
     "anglais": [
-      "CEO"
+      "well-known"
     ],
     "francais": [
-      "PDG"
+      "connu / célèbre"
     ],
     "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "CFO"
-    ],
-    "francais": [
-      "directeur financier"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "clerk"
-    ],
-    "francais": [
-      "employé de bureau"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "contractor"
-    ],
-    "francais": [
-      "prestataire",
-      "contractuel",
-      "entrepreneur"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "coworker"
-    ],
-    "francais": [
-      "collègue"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "engineer"
-    ],
-    "francais": [
-      "ingénieur"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "executive"
-    ],
-    "francais": [
-      "cadre",
-      "exécutif",
-      "classe affaires"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "floor manager"
-    ],
-    "francais": [
-      "chef de rayon"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "graphic designer"
-    ],
-    "francais": [
-      "graphiste"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "head of departement"
-    ],
-    "francais": [
-      "chef de service"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "Human Ressources director"
-    ],
-    "francais": [
-      "DRH"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "intern"
-    ],
-    "francais": [
-      "stagiaire"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "IT technician"
-    ],
-    "francais": [
-      "informaticien"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "job seeker"
-    ],
-    "francais": [
-      "demandeur d'emploi"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "management"
-    ],
-    "francais": [
-      "la direction",
-      "la gestion"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "office manager"
-    ],
-    "francais": [
-      "responsable administratif"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "Personnal assistant"
-    ],
-    "francais": [
-      "assistant de direction"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "sales rep",
-      "salesperson"
-    ],
-    "francais": [
-      "commercial",
-      "représentant"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "anglais", "index": 1, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "security guard"
-    ],
-    "francais": [
-      "agent de sécurité"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "site manager"
-    ],
-    "francais": [
-      "chef de chantier",
-      "responsable du site"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "temp"
-    ],
-    "francais": [
-      "intérimaire"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "apply"
-    ],
-    "francais": [
-      "postuler",
-      "poser sa candidature"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "appoint"
-    ],
-    "francais": [
-      "nommer"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "appraisal"
-    ],
-    "francais": [
-      "évaluation"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "assess"
-    ],
-    "francais": [
-      "évaluer"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "asset"
-    ],
-    "francais": [
-      "atout"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "attendance"
-    ],
-    "francais": [
-      "taux de présence"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "clock in"
-    ],
-    "francais": [
-      "pointer en arrivant"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "clock out"
-    ],
-    "francais": [
-      "pointer en partant"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "credentials"
-    ],
-    "francais": [
-      "qualifications",
-      "références"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "dismiss"
-    ],
-    "francais": [
-      "renvoyer"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "downsize"
-    ],
-    "francais": [
-      "réduire les effectifs"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "fill out"
-    ],
-    "francais": [
-      "remplir"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "give notice"
-    ],
-    "francais": [
-      "donner son préavis"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "hire"
-    ],
-    "francais": [
-      "recrue",
-      "personne embauchée",
-      "embaucher",
-      "engager"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 2, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 3, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "lay off"
-    ],
-    "francais": [
-      "licencier"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "leave"
-    ],
-    "francais": [
-      "congé",
-      "partir"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "manpower"
-    ],
-    "francais": [
-      "main-d'oeuvre",
-      "effectifs"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "provide"
-    ],
-    "francais": [
-      "fournir"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "resign"
-    ],
-    "francais": [
-      "démissionner"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "résumé"
-    ],
-    "francais": [
-      "CV",
-      "curriculum vitae"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "shortlist"
-    ],
-    "francais": [
-      "les candidats finalistes",
-      "présélectionner"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "take on"
-    ],
-    "francais": [
-      "embaucher"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "temp agency"
-    ],
-    "francais": [
-      "agence d'intérim"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "transfer"
-    ],
-    "francais": [
-      "mutation",
-      "muter"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false },
-      { "source": "francais", "index": 1, "direction": "francais-anglais", "done": false }
-    ]
-  },
-  {
-    "anglais": [
-      "vacancy"
-    ],
-    "francais": [
-      "poste vacant"
-    ],
-    "tested": [
-      { "source": "anglais", "index": 0, "direction": "anglais-francais", "done": false },
-      { "source": "francais", "index": 0, "direction": "francais-anglais", "done": false }
+      {
+        "source": "anglais",
+        "index": 0,
+        "direction": "anglais-francais",
+        "done": false
+      },
+      {
+        "source": "francais",
+        "index": 0,
+        "direction": "francais-anglais",
+        "done": false
+      }
     ]
   }
 ]
